@@ -1,0 +1,2 @@
+check-jboss.sh - A very simple BASH script to keep tracking of JBoss App Srv execution environment.
+deploy-inep.sh - A convenient script to deploy check-jboss.sh among all servers.

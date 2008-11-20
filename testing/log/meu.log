@@ -1,0 +1,11 @@
+Iniciando processamento dos testes em 'testcases/cenario'
+Iniciando testes'testcases/cenario/ENEM' com log em 'meu.log'
+
+---------------------------------------------------
+Teste testcases/cenario/ENEM -  T1
+Could not open testcases/cenario/ENEM
+Sucessos [       0] - Erros [       0]
+Teste testcases/cenario/ENEM -  T2
+Could not open testcases/cenario/ENEM
+Sucessos [       0] - Erros [       0]
+Teste testcases/cenario/ENEM -  T3

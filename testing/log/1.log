@@ -1,0 +1,19 @@
+Iniciando processamento dos testes em 'testcases/cenario'
+Iniciando testes 'testcases/cenario/ENEM 2008 - 20081113.jmx' com log em '1.log'
+
+---------------------------------------------------
+Teste testcases/cenario/ENEM 2008 - 20081113.jmx -  T1
+Created the tree successfully using testcases/cenario/ENEM 2008 - 20081113.jmx
+Configuring remote engine for  172.25.2.79
+Starting remote engines
+Starting the test @ Fri Nov 14 17:56:21 BRST 2008 (1226692581384)
+Remote engines have been started
+Tidying up ...    @ Fri Nov 14 17:56:56 BRST 2008 (1226692616853)
+... end of run
+Sucessos [1200] - Erros [0]
+Teste testcases/cenario/ENEM 2008 - 20081113.jmx -  T2
+Created the tree successfully using testcases/cenario/ENEM 2008 - 20081113.jmx
+Configuring remote engine for  172.25.2.79
+Starting remote engines
+Starting the test @ Fri Nov 14 17:57:04 BRST 2008 (1226692624055)
+Remote engines have been started

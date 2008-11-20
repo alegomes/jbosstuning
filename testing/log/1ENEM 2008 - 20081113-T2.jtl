@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="168" lt="166" ts="1226681378491" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-1" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="168" lt="166" ts="1226681378506" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-2" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="222" lt="219" ts="1226681378510" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-3" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="262" lt="259" ts="1226681378518" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-4" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="267" lt="264" ts="1226681378551" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-9" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="303" lt="301" ts="1226681378522" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-5" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="284" lt="277" ts="1226681378546" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-8" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="336" lt="329" ts="1226681378536" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-6" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="458" lt="455" ts="1226681378538" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-7" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="500" lt="497" ts="1226681378598" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-15" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="594" lt="591" ts="1226681378594" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-11" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="731" lt="729" ts="1226681378628" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-18" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="667" lt="664" ts="1226681378735" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-34" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1032" lt="1026" ts="1226681378599" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-10" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1000" lt="998" ts="1226681378694" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-29" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1107" lt="1103" ts="1226681378596" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-14" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1151" lt="1143" ts="1226681378626" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-16" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1158" lt="1155" ts="1226681378642" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-19" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1222" lt="1215" ts="1226681378594" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-12" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1034" lt="1028" ts="1226681378798" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-44" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1280" lt="1277" ts="1226681378595" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-13" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1196" lt="1193" ts="1226681378702" s="true" lb="INSC: Solicita Pesquisa" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-1" dt="text" by="20716">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1328" lt="1325" ts="1226681378707" s="true" lb="INSC: Solicita Pesquisa" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-2" dt="text" by="20732">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1058" lt="1055" ts="1226681379108" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-90" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1348" lt="1343" ts="1226681378838" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-50" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1440" lt="1438" ts="1226681378842" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-51" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1727" lt="1724" ts="1226681378641" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-21" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1660" lt="1657" ts="1226681378739" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-35" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="909" lt="899" ts="1226681379511" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-152" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1655" lt="1650" ts="1226681378746" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-36" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1932" lt="1929" ts="1226681379007" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-74" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2352" lt="2348" ts="1226681378627" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-17" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1775" lt="1771" ts="1226681379241" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-110" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2242" lt="2240" ts="1226681378810" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-46" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2411" lt="2408" ts="1226681378662" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-24" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2076" lt="2073" ts="1226681379144" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-96" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2576" lt="2574" ts="1226681378666" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-25" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1953" lt="1942" ts="1226681379302" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-120" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1531" lt="1529" ts="1226681379918" s="true" lb="INSC: Seleciona Pessoa" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-1" dt="text" by="9819">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2810" lt="2807" ts="1226681378646" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-22" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2563" lt="2561" ts="1226681378966" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-68" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2646" lt="2641" ts="1226681378890" s="true" lb="INSC: Solicita Pesquisa" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-6" dt="text" by="20713">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2887" lt="2884" ts="1226681378782" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-39" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2632" lt="2626" ts="1226681379059" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-82" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2924" lt="2922" ts="1226681378770" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-40" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2558" lt="2555" ts="1226681379189" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-103" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2450" lt="2443" ts="1226681379431" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-138" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2499" lt="2487" ts="1226681379467" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-145" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2945" lt="2932" ts="1226681379023" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-77" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3089" lt="3086" ts="1226681379043" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-80" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3151" lt="3148" ts="1226681379092" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-88" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3564" lt="3561" ts="1226681378686" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-28" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2500" lt="2498" ts="1226681379790" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-189" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3556" lt="3551" ts="1226681378750" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-37" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3393" lt="3390" ts="1226681378942" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-64" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2961" lt="2958" ts="1226681379382" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-132" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3627" lt="3625" ts="1226681378822" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-48" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3587" lt="3578" ts="1226681378882" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-56" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3417" lt="3412" ts="1226681379072" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-85" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3789" lt="3784" ts="1226681378726" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-33" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3643" lt="3640" ts="1226681378946" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-65" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3279" lt="3272" ts="1226681379318" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-122" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3750" lt="3747" ts="1226681378910" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-59" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3131" lt="3129" ts="1226681379600" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-166" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3994" lt="3991" ts="1226681378758" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-38" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1333" lt="1332" ts="1226681381464" s="true" lb="INSC: Autentica" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-1" dt="text" by="6859">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2775" lt="2773" ts="1226681380054" s="true" lb="INSC: Seleciona Pessoa" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-2" dt="text" by="9819">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3953" lt="3917" ts="1226681378918" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-60" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1353" lt="1350" ts="1226681381562" s="true" lb="INSC: Seleciona Pessoa" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-6" dt="text" by="9819">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3852" lt="3849" ts="1226681379112" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-91" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3391" lt="3388" ts="1226681379592" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-165" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="4222" lt="4206" ts="1226681378818" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-47" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3890" lt="3884" ts="1226681379205" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-105" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3669" lt="3665" ts="1226681379431" s="true" lb="INSC: Pagina Inicial" rc="200" rm="OK" tn="Pesquisa Inscricao V4.0 1-139" dt="text" by="18278">
+  <assertionResult>
+    <name>Check response</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>

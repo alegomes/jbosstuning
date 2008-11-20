@@ -1,0 +1,11 @@
+Iniciando processamento dos testes em 'testcases/cenario'
+Iniciando testes 'testcases/cenario/ENEM 2008 - 20081113.jmx' com log em '200811150813.log'
+
+---------------------------------------------------
+Teste testcases/cenario/ENEM 2008 - 20081113.jmx -  T1
+Created the tree successfully using testcases/cenario/ENEM 2008 - 20081113.jmx
+Starting the test @ Sat Nov 15 08:13:57 BRST 2008 (1226744037212)
+Tidying up ...    @ Sat Nov 15 08:14:07 BRST 2008 (1226744047329)
+... end of run
+Sucessos [       0] - Erros [     200]
+Teste testcases/cenario/ENEM 2008 - 20081113.jmx -  T2

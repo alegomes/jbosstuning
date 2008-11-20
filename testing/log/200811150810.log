@@ -1,0 +1,19 @@
+Iniciando processamento dos testes em 'testcases/cenario'
+Iniciando testes 'testcases/cenario/ENEM 2008 - 20081113.jmx' com log em '200811150810.log'
+
+---------------------------------------------------
+Teste testcases/cenario/ENEM 2008 - 20081113.jmx -  T1
+Created the tree successfully using testcases/cenario/ENEM 2008 - 20081113.jmx
+Starting the test @ Sat Nov 15 08:11:10 BRST 2008 (1226743870384)
+Tidying up ...    @ Sat Nov 15 08:11:23 BRST 2008 (1226743883277)
+... end of run
+Sucessos [       0] - Erros [     180]
+Teste testcases/cenario/ENEM 2008 - 20081113.jmx -  T2
+Created the tree successfully using testcases/cenario/ENEM 2008 - 20081113.jmx
+Starting the test @ Sat Nov 15 08:11:36 BRST 2008 (1226743896606)
+Tidying up ...    @ Sat Nov 15 08:11:47 BRST 2008 (1226743907283)
+... end of run
+Sucessos [       0] - Erros [     180]
+Teste testcases/cenario/ENEM 2008 - 20081113.jmx -  T3
+Created the tree successfully using testcases/cenario/ENEM 2008 - 20081113.jmx
+Starting the test @ Sat Nov 15 08:12:00 BRST 2008 (1226743920950)

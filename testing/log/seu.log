@@ -1,0 +1,23 @@
+Iniciando processamento dos testes em 'testcases/cenario'
+Iniciando testes 'testcases/cenario/ENEM 2008 - 20081113.jmx' com log em 'seu.log'
+
+---------------------------------------------------
+Teste testcases/cenario/ENEM 2008 - 20081113.jmx -  T1
+Created the tree successfully using testcases/cenario/ENEM 2008 - 20081113.jmx
+Starting the test @ Fri Nov 14 14:28:38 BRST 2008 (1226680118219)
+Tidying up ...    @ Fri Nov 14 14:28:47 BRST 2008 (1226680127555)
+... end of run
+Sucessos [       0] - Erros [     180]
+Teste testcases/cenario/ENEM 2008 - 20081113.jmx -  T2
+Created the tree successfully using testcases/cenario/ENEM 2008 - 20081113.jmx
+Starting the test @ Fri Nov 14 14:29:04 BRST 2008 (1226680144219)
+Tidying up ...    @ Fri Nov 14 14:29:14 BRST 2008 (1226680154773)
+... end of run
+Sucessos [       0] - Erros [     180]
+Teste testcases/cenario/ENEM 2008 - 20081113.jmx -  T3
+Created the tree successfully using testcases/cenario/ENEM 2008 - 20081113.jmx
+Starting the test @ Fri Nov 14 14:29:30 BRST 2008 (1226680170134)
+Tidying up ...    @ Fri Nov 14 14:29:38 BRST 2008 (1226680178939)
+... end of run
+Sucessos [       0] - Erros [     180]
+Fim da execucao do JMeter
